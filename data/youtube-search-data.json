@@ -1,0 +1,172 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "4C8uftgjT-gsYnhto7oybRY5X8s",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "hTjo-QVWcK0"
+        },
+        "snippet": {
+            "publishedAt": "2023-11-07T11:57:18Z",
+            "channelId": "UCw_LFe2pS8x3NyipGNJgeEA",
+            "title": "What Does a Data Engineer ACTUALLY Do?",
+            "description": "Free Data Analyst Roadmap: https://learnwithlukas.com/da Data Analyst Certification: https://datacamp.pxf.io/lukasanalyst ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Learn with Lukas",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-07T11:57:18Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ppkP3MdQxWlm18k4xoUnRWsEHwg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4yFgYD-RYBU"
+        },
+        "snippet": {
+            "publishedAt": "2023-11-13T16:00:04Z",
+            "channelId": "UCkr5oRDSZVQKP_LeuZS4KPw",
+            "title": "4 Types of Healthcare Data Analysts Should Know",
+            "description": "In this lesson, I teach you the essential types of data you will encounter as a data professional in healthcare, whether you're a data ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4yFgYD-RYBU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4yFgYD-RYBU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4yFgYD-RYBU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Data Wizardry",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-11-13T16:00:04Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "6fmGMVcyZzW3-rAQ13meHvZ3zqs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "VCjiM3ex9Kg"
+        },
+        "snippet": {
+            "publishedAt": "2020-07-08T15:19:56Z",
+            "channelId": "UCE7gVQ0PIygx2hV0XP5NKsQ",
+            "title": "Data Engineering in Healthcare Domain",
+            "description": "Pankaj Ojha, Project Delivery Head at Harbinger Systems talk about Data Engineering in Healthcare Domain.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VCjiM3ex9Kg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VCjiM3ex9Kg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VCjiM3ex9Kg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Harbinger Group",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-07-08T15:19:56Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "Xe02-6ilugLGRaHSDrbPUO_YzG4",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "eUrwxH9as_k"
+        },
+        "snippet": {
+            "publishedAt": "2023-10-15T12:38:26Z",
+            "channelId": "UCDybamfye5An6p-j1t2YMsg",
+            "title": "Data Engineers vs Data Analysts vs Data Scientists | What&#39;s right for you?",
+            "description": "Portfolio, Projects, Resume, Courses & Certifications, Newsletter https://mochen.info Sponsorships: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eUrwxH9as_k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eUrwxH9as_k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eUrwxH9as_k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Mo Chen",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-10-15T12:38:26Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "fcXS37lBCsFpTUJChXhW-t7_sgE",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "01LVHch-1x0"
+        },
+        "snippet": {
+            "publishedAt": "2025-08-25T14:20:43Z",
+            "channelId": "UCGa6G29zQLjG-sVs-fufUCA",
+            "title": "End-to-End Healthcare Data Engineer Project | Azure Databricks + Data Factory",
+            "description": "Build an End-to-End Real-Time Healthcare Data Engineering Project on Azure! In this video, I'll Walk you through a **real-time ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/01LVHch-1x0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/01LVHch-1x0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/01LVHch-1x0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Data with Jay",
+            "liveBroadcastContent": "none",
+            "publishTime": "2025-08-25T14:20:43Z"
+        }
+    }
+]
