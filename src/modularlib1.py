@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 31 11:02:03 2026
+Created on Mon Apr 13 14:50:33 2026
 
-@author: Taufik Sutanto
+@author: Amadu
 """
 
 import pandas as pd
@@ -10,7 +10,7 @@ import pandas as pd
 
 def dataPreprocessing(df):
     """
-    this description of the function
+    This is the description of function
     """
     # 2. Clean Data (The logic is "stuck" here)
     df["temperature"] = df["temperature"].fillna(df["temperature"].mean())
