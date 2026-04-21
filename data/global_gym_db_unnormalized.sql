@@ -1,6 +1,6 @@
 -- 1. Create the Database
-CREATE DATABASE IF NOT EXISTS global_gym_db;
-USE global_gym_db;
+CREATE DATABASE IF NOT EXISTS intl_gym_db;
+USE intl_gym_db;
 
 -- 2. Create the Unnormalized Table
 -- Columns are VARCHAR to accommodate non-atomic (multi-valued) data for 1NF exercises.
